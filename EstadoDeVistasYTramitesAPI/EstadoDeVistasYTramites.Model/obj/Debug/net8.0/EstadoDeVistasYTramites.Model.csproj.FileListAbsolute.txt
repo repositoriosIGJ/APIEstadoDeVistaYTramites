@@ -1,0 +1,11 @@
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.deps.json
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfo.cs
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\refint\EstadoDeVistasYTramites.Model.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\ref\EstadoDeVistasYTramites.Model.dll

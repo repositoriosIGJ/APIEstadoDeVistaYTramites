@@ -1,0 +1,16 @@
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\Connected Services\ServiceReference\ConnectedService.json
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.deps.json
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.pdb
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfo.cs
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDe.6226052F.Up2Date
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\refint\EstadoDeVistasyTramites.Service.dll
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.pdb
+D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\ref\EstadoDeVistasyTramites.Service.dll
